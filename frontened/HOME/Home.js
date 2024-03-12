@@ -167,7 +167,7 @@ const Home = () => {
             </div>
             <div className="tweetText">
              Earth is round
-            </div>
+            
             <div className="tweetChoices">
               <p className="tweetChoice">
                 <i className="fa-regular fa-comment"></i> 2
